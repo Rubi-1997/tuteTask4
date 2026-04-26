@@ -1,6 +1,6 @@
 # tuteTask4
 add stylesheet usng external css.
-made a <div> tag having "image" and "button"
+made a div tag having "image" and "button"
 give "padding for inside-space and margin for outside-space"
 add linear gradient color for giving background coor to button.
 1.How to run index.html file
