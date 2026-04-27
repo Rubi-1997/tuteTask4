@@ -1,3 +1,8 @@
+/* using font-faminy using google font ,method import */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Playwrite+DE+SAS:wght@100..400&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
 *{
     padding: 0;
     margin: 0;
@@ -11,19 +16,32 @@
    margin:10vh 25vw;
 }
 
-.Click{
-    width: 100%;
+.click{
+width: 50vw;
 text-align: center;
-padding: 2% 42%;
+padding: 1vh 22vw;
 color: white;
 font-size:19px;
 margin-top: -4px;
 background-image: linear-gradient(to right, rgb(245, 201, 57) , rgb(140, 222, 102));
+/* font family using auto select option */
+/* font-family: 'Courier New', Courier, monospace;
+   */
+
+   font-family: "Playwrite DE SAS", cursive;
 }
 
 
 .img{
     
-    width:100%;
+width:50vw;
     
+}
+
+.click:hover{
+    color:rgb(118, 132, 212);
+    transform: scale(1.1);
+    border:none;
+    
+
 }
